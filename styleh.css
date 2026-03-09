@@ -17,3 +17,40 @@ nav{
     padding: 7px;
     border-radius: 10px;
 }
+.hero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#eee;
+padding:40px;
+border-radius:10px;
+max-width: 1200px;
+margin: auto;
+}
+
+.hero h1{
+font-size:40px;
+margin-bottom:20px;
+}
+.hero-right img{
+    width: 80%;
+}
+.quiz-text img{
+    width: 80%;
+}
+.work-btn{
+    background-color: #D7B18D;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+.btn img{
+    width: 6%;
+    margin-top: 18px;
+}
+.btn{
+    display: flex;
+    align-items: start;justify-content: start;
+    gap: 10px;
+
+}
