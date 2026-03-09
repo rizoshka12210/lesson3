@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+nav{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.lang-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-color: #F4F4F5;
+    padding: 7px;
+    border-radius: 10px;
+}
