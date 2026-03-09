@@ -288,8 +288,6 @@ justify-content:center;
 .btn img{
 width:40px;
 }
-
-
 .banner{
 margin:40px auto;
 padding:0 10px;
@@ -298,8 +296,6 @@ padding:0 10px;
 .banner img{
 width:100%;
 }
-
-
 
 .cards{
 grid-template-columns:1fr;
