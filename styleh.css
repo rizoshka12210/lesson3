@@ -167,3 +167,67 @@ border-radius:6px;
 .phone p{
     font-size: 30px;
 }
+
+.steps{
+    max-width: 1200px;
+    margin: 60px auto;
+
+}
+.steps img{
+    width: 100%;
+}
+
+.hot{
+margin-top:40px;
+background:#63666a;
+color:white;
+padding:40px;
+border-radius:10px;
+display:flex;
+align-items:center;
+max-width: 1200px;
+margin: auto;
+}
+
+.hot-right{
+background:white;
+color:black;
+padding:20px;
+border-radius:10px;
+text-align:center;
+width: 200px;
+height: 100px;
+margin-left: 50px;
+}
+.hot-left h2{
+    font-size: 59px;
+    padding-bottom: 30px;
+}
+.hot-left span{
+    font-size: 29px;
+}
+.hot-left p{
+    padding-bottom: 29px;
+    font-size: 19px;
+}
+.hot-right h1{
+    font-size: 80px;
+}
+.hot-right p{
+    font-size: 20px;
+}
+.hot-right img{
+    position:absolute;
+    margin-top: -200px;
+    margin-left: -40px;
+    width: 32%;
+}
+
+.finish{
+    max-width: 1290px;
+    margin: auto;
+    height: 280px;
+    width: 100%;
+    background-color: #F4F4F5;
+    margin-top: 40px;
+}
